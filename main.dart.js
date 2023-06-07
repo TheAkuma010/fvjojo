@@ -99228,7 +99228,7 @@
                 a9 = A.dz(!1, c5, !0, A.aX(c5, A.jy(B.b3, A.c([a9, b0, A.bq(A.c([A.aw(A.d(r), c5, c5, c5, A.X(c5, c5, r <= q ? B.e : c4.f, c5, c5, c5, c5, c5, c6, c5, c5, 22.727272727272727, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, b1, c5, c5), c5, c5), A.aw("/" + A.d(q), c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 22.727272727272727, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([new A.cu(B.l, B.k, 2), new A.cu(B.l, B.k, 5)], a5), c5, c5), c5, c5)], c), B.p, B.eP, B.r)], c), B.ad, B.b2), B.n, c5, c5, new A.bz(c5, c5, c5, c5, c5, c5, B.K), c5, 31.88034188034188, c5, c5, c5, c5, c5, c5), c5, !0, c5, c5, c5, c5, c5, c5, c5, c5, c5, new A.ado(s, c8, j, c7), c5, c5, c5)
                 b0 = A.b0(c5, 10, c5)
                 b1 = A.U(255, 255, 255, 255)
-                b1 = A.bq(A.c([A.qf(A.U(255, 0, 0, 0), b1, new A.adp(k), new A.jN(new A.adq(), B.l, 1, B.m), 0, k.r), A.aw("Lesionado", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([], a5), c5, c5), c5, c5)], c), B.p, B.u, B.r)
+                b1 = A.bq(A.c([A.qf(A.U(255, 0, 0, 0), b1, new A.adp(k), new A.jN(new A.adq(), B.l, 1, B.m), 0, k.r), A.aw("Queimando", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([], a5), c5, c5), c5, c5)], c), B.p, B.u, B.r)
                 b2 = A.U(255, 255, 255, 255)
                 b2 = A.bq(A.c([A.qf(A.U(255, 0, 0, 0), b2, new A.ad5(k), new A.jN(new A.ad6(), B.l, 1, B.m), c5, k.x), A.aw("Inconsciente", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([], a5), c5, c5), c5, c5)], c), B.p, B.u, B.r)
                 b3 = A.U(255, 255, 255, 255)
@@ -99244,7 +99244,6 @@
                 b6 = A.U(255, 255, 255, 255)
                 b6 = A.bq(A.c([A.qf(A.U(255, 0, 0, 0), b6, new A.adc(k), new A.jN(new A.add(), B.l, 1, B.m), 0, k.y), A.aw("Pertubado", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([], a5), c5, c5), c5, c5)], c), B.p, B.u, B.r)
                 b7 = A.U(255, 255, 255, 255)
-                k = A.qW(A.c([b6, A.bq(A.c([A.qf(A.U(255, 0, 0, 0), b7, new A.ade(k), new A.jN(new A.adg(), B.l, 1, B.m), c5, k.z), A.aw("Enlouquecido", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([], a5), c5, c5), c5, c5)], c), B.p, B.u, B.r)], c), B.p, B.a5, c5, B.cF, B.r, c5, c5, B.aU)
                 b7 = A.b0(c5, 20, c5)
                 b6 = A.qW(A.c([A.aw("CA", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([new A.es(0, B.dZ, A.U(255, 174, 0, 255), B.k, 7)], a5), c5, c5), c5, c5), A.bq(A.c([A.lV(B.bT, c5, A.dL(B.h4, B.e, c5), 16, new A.adh(s, j, c7), new A.aq(0, 0, 0, 0), 1, c5), A.lV(B.bT, c5, A.dL(B.ej, B.e, c5), 16, new A.adi(s, j, c7), new A.aq(0, 0, 0, 0), 1, c5)], c), B.p, B.u, B.r)], c), B.p, B.a5, c5, B.au, B.r, c5, c5, B.aU)
                 b8 = A.b0(c5, 10, c5)
@@ -99321,7 +99320,7 @@
             d = g.b[1]
             s = A.X(k, k, B.e, k, k, k, k, k, k, k, k, k, k, k, k, k, !0, k, k, k, k, k, k, k, k)
             r = A.X(k, k, A.U(255, 255, 255, 255), k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k)
-            s = A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait LESIONADO", k, k, k, k, !1, k, k, r, "Lesionado", k, k, k, k, k, k, k, k, k, k, k, k, k), d, k, B.cf, !1, new A.acG(g), s, k)
+            s = A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait Queimado", k, k, k, k, !1, k, k, r, "Queimado", k, k, k, k, k, k, k, k, k, k, k, k, k), d, k, B.cf, !1, new A.acG(g), s, k)
             d = A.b0(k, 20, k)
             r = g.b[2]
             q = A.X(k, k, B.e, k, k, k, k, k, k, k, k, k, k, k, k, k, !0, k, k, k, k, k, k, k, k)
@@ -99331,12 +99330,12 @@
             p = g.b[3]
             o = A.X(k, k, B.e, k, k, k, k, k, k, k, k, k, k, k, k, k, !0, k, k, k, k, k, k, k, k)
             n = A.X(k, k, A.U(255, 255, 255, 255), k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k)
-            o = A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait PERTUBADO / ENLOUQUECIDO", k, k, k, k, !1, k, k, n, "Pertubado / Enlouquecido", k, k, k, k, k, k, k, k, k, k, k, k, k), p, k, B.cf, !1, new A.acJ(g), o, k)
+            o = A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait PERTUBADO", k, k, k, k, !1, k, k, n, "Pertubado", k, k, k, k, k, k, k, k, k, k, k, k, k), p, k, B.cf, !1, new A.acJ(g), o, k)
             p = A.b0(k, 20, k)
             n = g.b[4]
             m = A.X(k, k, B.e, k, k, k, k, k, k, k, k, k, k, k, k, k, !0, k, k, k, k, k, k, k, k)
             l = A.X(k, k, A.U(255, 255, 255, 255), k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k)
-            m = A.cq(A.c([e, f, s, d, q, r, o, p, A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait LESIONADO + PERTUBADO / INSANO", k, k, k, k, !1, k, k, l, "Lesionado + Pertubado / Insano", k, k, k, k, k, k, k, k, k, k, k, k, k), n, k, B.cf, !1, new A.acK(g), m, k), A.b0(k, 20, k)], i), B.p, B.u, B.bp)
+            m = A.cq(A.c([e, f, s, d, q, r, o, p, A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait Queimado + Pertubado", k, k, k, k, !1, k, k, l, "Queimado + Pertubado", k, k, k, k, k, k, k, k, k, k, k, k, k), n, k, B.cf, !1, new A.acK(g), m, k), A.b0(k, 20, k)], i), B.p, B.u, B.bp)
             return A.n5(A.c([A.h5(A.aw("Adicionar", k, k, k, A.X(k, k, B.e, k, k, k, k, k, j, k, k, 25, k, k, k, k, !0, k, k, k, k, k, k, k, k), k, k), B.l, new A.acL(g, this.b, this.c, a), new A.bh(B.O, new A.a3(B.e, 1, B.m)), B.l)], i), B.l, m, new A.bh(B.O, new A.a3(B.e, 1, B.m)), h)
         },
         $S: 39
@@ -99702,12 +99701,12 @@
     }
     A.acW.prototype = {
         $1(a) {
-            var s, r = null, q = "columbiaserialmediumregular", p = t.t, o = A.cq(A.c([A.bq(A.c([A.aw("Adicione ou Remova SAN", r, r, r, A.X(r, r, B.e, r, r, r, r, r, q, r, r, 25, r, B.aR, r, r, !0, r, r, r, r, r, r, r, r), r, r), A.dz(!1, r, !0, A.dL(B.bI, B.e, 28), r, !0, r, r, r, r, r, r, r, r, r, new A.acO(a), r, r, r)], p), B.p, B.au, B.r), A.nx(B.e, r)], p), B.p, B.u, B.r), n = A.X(r, r, B.e, r, r, r, r, r, r, r, r, r, r, r, r, r, !0, r, r, r, r, r, r, r, r), m = $.EO(), l = t.a8, k = A.c([m], l), j = this.a
-            n = A.f1(r, B.e, A.dM(r, r, r, r, r, r, r, r, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, r, r, r, r, r, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, A.X(r, r, B.ah, r, r, r, r, r, q, r, r, 20, r, r, r, r, !0, r, r, r, r, r, r, r, r), "SAN Atual", r, r, r, r, !1, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r), r, k, B.bv, !1, new A.acP(j), n, r)
+            var s, r = null, q = "columbiaserialmediumregular", p = t.t, o = A.cq(A.c([A.bq(A.c([A.aw("Adicione ou Remova Energia", r, r, r, A.X(r, r, B.e, r, r, r, r, r, q, r, r, 25, r, B.aR, r, r, !0, r, r, r, r, r, r, r, r), r, r), A.dz(!1, r, !0, A.dL(B.bI, B.e, 28), r, !0, r, r, r, r, r, r, r, r, r, new A.acO(a), r, r, r)], p), B.p, B.au, B.r), A.nx(B.e, r)], p), B.p, B.u, B.r), n = A.X(r, r, B.e, r, r, r, r, r, r, r, r, r, r, r, r, r, !0, r, r, r, r, r, r, r, r), m = $.EO(), l = t.a8, k = A.c([m], l), j = this.a
+            n = A.f1(r, B.e, A.dM(r, r, r, r, r, r, r, r, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, r, r, r, r, r, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, A.X(r, r, B.ah, r, r, r, r, r, q, r, r, 20, r, r, r, r, !0, r, r, r, r, r, r, r, r), "Energia Atual", r, r, r, r, !1, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r), r, k, B.bv, !1, new A.acP(j), n, r)
             k = A.b0(r, 20, r)
             s = A.X(r, r, B.e, r, r, r, r, r, r, r, r, r, r, r, r, r, !0, r, r, r, r, r, r, r, r)
             l = A.c([m], l)
-            s = A.aX(r, A.cq(A.c([n, k, A.f1(r, B.e, A.dM(r, r, r, r, r, r, r, r, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, r, r, r, r, r, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, A.X(r, r, B.ah, r, r, r, r, r, q, r, r, 20, r, r, r, r, !0, r, r, r, r, r, r, r, r), "SAN Maxima", r, r, r, r, !1, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r), r, l, B.bv, !1, new A.acQ(j), s, r)], p), B.p, B.u, B.r), B.n, r, r, r, r, 150, r, r, r, r, r, 450)
+            s = A.aX(r, A.cq(A.c([n, k, A.f1(r, B.e, A.dM(r, r, r, r, r, r, r, r, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, r, r, r, r, r, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, A.X(r, r, B.ah, r, r, r, r, r, q, r, r, 20, r, r, r, r, !0, r, r, r, r, r, r, r, r), "Energia Maxima", r, r, r, r, !1, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r), r, l, B.bv, !1, new A.acQ(j), s, r)], p), B.p, B.u, B.r), B.n, r, r, r, r, 150, r, r, r, r, r, 450)
             l = this.b
             k = this.c
             return A.n5(A.c([A.bq(A.c([A.bq(A.c([A.h5(A.aw("Resetar", r, r, r, A.X(r, r, B.e, r, r, r, r, r, q, r, r, 25, r, r, r, r, !0, r, r, r, r, r, r, r, r), r, r), B.l, new A.acR(j, l, k), new A.bh(B.O, new A.a3(B.e, 1, B.m)), B.l)], p), B.p, B.u, B.r), A.bq(A.c([A.h5(A.aw("Remover", r, r, r, A.X(r, r, B.e, r, r, r, r, r, q, r, r, 25, r, r, r, r, !0, r, r, r, r, r, r, r, r), r, r), B.l, new A.acS(j, l, k, a), new A.bh(B.O, new A.a3(B.e, 1, B.m)), B.l), A.b0(r, r, 10), A.h5(A.aw("Adicionar", r, r, r, A.X(r, r, B.e, r, r, r, r, r, q, r, r, 25, r, r, r, r, !0, r, r, r, r, r, r, r, r), r, r), B.l, new A.acx(j, l, k, a), new A.bh(B.O, new A.a3(B.e, 1, B.m)), B.l)], p), B.p, B.u, B.r)], p), B.p, B.au, B.r)], p), B.l, s, new A.bh(B.O, new A.a3(B.e, 1, B.m)), o)
@@ -99922,12 +99921,12 @@
     }
     A.acT.prototype = {
         $1(a) {
-            var s, r = null, q = "columbiaserialmediumregular", p = t.t, o = A.cq(A.c([A.bq(A.c([A.aw("Adicione ou Remova PE", r, r, r, A.X(r, r, B.e, r, r, r, r, r, q, r, r, 25, r, B.aR, r, r, !0, r, r, r, r, r, r, r, r), r, r), A.dz(!1, r, !0, A.dL(B.bI, B.e, 28), r, !0, r, r, r, r, r, r, r, r, r, new A.acu(a), r, r, r)], p), B.p, B.au, B.r), A.nx(B.e, r)], p), B.p, B.u, B.r), n = A.X(r, r, B.e, r, r, r, r, r, r, r, r, r, r, r, r, r, !0, r, r, r, r, r, r, r, r), m = $.EO(), l = t.a8, k = A.c([m], l), j = this.a
-            n = A.f1(r, B.e, A.dM(r, r, r, r, r, r, r, r, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, r, r, r, r, r, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, A.X(r, r, B.ah, r, r, r, r, r, q, r, r, 20, r, r, r, r, !0, r, r, r, r, r, r, r, r), "PE Atual", r, r, r, r, !1, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r), r, k, B.bv, !1, new A.acv(j), n, r)
+            var s, r = null, q = "columbiaserialmediumregular", p = t.t, o = A.cq(A.c([A.bq(A.c([A.aw("Adicione ou Remova CA", r, r, r, A.X(r, r, B.e, r, r, r, r, r, q, r, r, 25, r, B.aR, r, r, !0, r, r, r, r, r, r, r, r), r, r), A.dz(!1, r, !0, A.dL(B.bI, B.e, 28), r, !0, r, r, r, r, r, r, r, r, r, new A.acu(a), r, r, r)], p), B.p, B.au, B.r), A.nx(B.e, r)], p), B.p, B.u, B.r), n = A.X(r, r, B.e, r, r, r, r, r, r, r, r, r, r, r, r, r, !0, r, r, r, r, r, r, r, r), m = $.EO(), l = t.a8, k = A.c([m], l), j = this.a
+            n = A.f1(r, B.e, A.dM(r, r, r, r, r, r, r, r, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, r, r, r, r, r, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, A.X(r, r, B.ah, r, r, r, r, r, q, r, r, 20, r, r, r, r, !0, r, r, r, r, r, r, r, r), "CA Atual", r, r, r, r, !1, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r), r, k, B.bv, !1, new A.acv(j), n, r)
             k = A.b0(r, 20, r)
             s = A.X(r, r, B.e, r, r, r, r, r, r, r, r, r, r, r, r, r, !0, r, r, r, r, r, r, r, r)
             l = A.c([m], l)
-            s = A.aX(r, A.cq(A.c([n, k, A.f1(r, B.e, A.dM(r, r, r, r, r, r, r, r, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, r, r, r, r, r, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, A.X(r, r, B.ah, r, r, r, r, r, q, r, r, 20, r, r, r, r, !0, r, r, r, r, r, r, r, r), "PE M\xe1ximo", r, r, r, r, !1, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r), r, l, B.bv, !1, new A.acw(j), s, r)], p), B.p, B.u, B.r), B.n, r, r, r, r, 150, r, r, r, r, r, 450)
+            s = A.aX(r, A.cq(A.c([n, k, A.f1(r, B.e, A.dM(r, r, r, r, r, r, r, r, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, r, r, r, r, r, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), r, r, r, r, r, A.X(r, r, B.ah, r, r, r, r, r, q, r, r, 20, r, r, r, r, !0, r, r, r, r, r, r, r, r), "CA M\xe1xima", r, r, r, r, !1, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r, r), r, l, B.bv, !1, new A.acw(j), s, r)], p), B.p, B.u, B.r), B.n, r, r, r, r, 150, r, r, r, r, r, 450)
             l = this.b
             k = this.c
             return A.n5(A.c([A.bq(A.c([A.bq(A.c([A.h5(A.aw("Resetar", r, r, r, A.X(r, r, B.e, r, r, r, r, r, q, r, r, 25, r, r, r, r, !0, r, r, r, r, r, r, r, r), r, r), B.l, new A.acH(j, l, k), new A.bh(B.O, new A.a3(B.e, 1, B.m)), B.l)], p), B.p, B.u, B.r), A.bq(A.c([A.h5(A.aw("Remover", r, r, r, A.X(r, r, B.e, r, r, r, r, r, q, r, r, 25, r, r, r, r, !0, r, r, r, r, r, r, r, r), r, r), B.l, new A.acM(j, l, k, a), new A.bh(B.O, new A.a3(B.e, 1, B.m)), B.l), A.b0(r, r, 10), A.h5(A.aw("Adicionar", r, r, r, A.X(r, r, B.e, r, r, r, r, r, q, r, r, 25, r, r, r, r, !0, r, r, r, r, r, r, r, r), r, r), B.l, new A.acN(j, l, k, a), new A.bh(B.O, new A.a3(B.e, 1, B.m)), B.l)], p), B.p, B.u, B.r)], p), B.p, B.au, B.r)], p), B.l, s, new A.bh(B.O, new A.a3(B.e, 1, B.m)), o)
@@ -100528,7 +100527,7 @@
             } else s = A.yA(j, j, 0)
             r = t.t
             s = A.c([s], r)
-            q = i.a.d ? "Rolando Dado de Ataque (1D20 + Per\xedcia)" : "Rolando Dado de Sanidade (PRE + VON)"
+            q = i.a.d ? "Dado de Ataque" : "Dado de Energia"
             q = A.cq(A.c([A.bq(A.c([A.aw(q, j, j, j, A.X(j, j, B.e, j, j, j, j, j, k, j, j, 25, j, B.aR, j, j, !0, j, j, j, j, j, j, j, j), j, j), A.dz(!1, j, !0, A.dL(B.bI, B.e, 28), j, !0, j, j, j, j, j, j, j, j, j, new A.afb(i, a), j, j, j)], r), B.p, B.au, B.r), A.nx(B.e, j)], r), B.p, B.u, B.bp)
             if (i.y) {
                 p = A.X(j, j, B.e, j, j, j, j, j, k, j, j, 15, j, j, j, j, !0, j, j, j, j, j, j, j, j)
