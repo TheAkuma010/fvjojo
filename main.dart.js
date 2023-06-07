@@ -99242,8 +99242,9 @@
                 b8 = A.c([new A.cu(B.l, B.k, 2), new A.cu(B.l, B.k, 5)], a5)
                 b5 = A.bq(A.c([new A.dy(1, B.ay, A.dz(!1, c5, !0, A.aX(c5, A.jy(B.b3, A.c([b6, b7, A.bq(A.c([A.aw(A.d(p), c5, c5, c5, A.X(c5, c5, p <= o ? B.e : c4.f, c5, c5, c5, c5, c5, c6, c5, c5, 22.727272727272727, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, b8, c5, c5), c5, c5), A.aw("/" + A.d(o) + " ", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 22.727272727272727, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([new A.cu(B.l, B.k, 2), new A.cu(B.l, B.k, 5)], a5), c5, c5), c5, c5)], c), B.p, B.eP, B.r)], c), B.ad, B.b2), B.n, c5, c5, new A.bz(c5, c5, b5, c5, c5, c5, B.K), c5, 31.88034188034188, c5, c5, c5, c5, c5, c5), c5, !0, c5, c5, c5, c5, c5, c5, c5, c5, c5, new A.adb(s, c8, j, c7), c5, c5, c5), c5), new A.cP(B.yY, A.b0(new A.rB(!1, c5), c5, 60), c5)], c), B.p, B.u, B.r)
                 b6 = A.U(255, 255, 255, 255)
-                b6 = A.bq(A.c([A.qf(A.U(255, 0, 0, 0), b6, new A.adc(k), new A.jN(new A.add(), B.l, 1, B.m), 0, k.y), A.aw("Pertubado", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([], a5), c5, c5), c5, c5)], c), B.p, B.u, B.r)
+                b6 = A.bq(A.c([A.qf(A.U(255, 0, 0, 0), b6, new A.adc(k), new A.jN(new A.add(), B.l, 1, B.m), 0, k.y), A.aw("Plano Superior", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([], a5), c5, c5), c5, c5)], c), B.p, B.u, B.r)
                 b7 = A.U(255, 255, 255, 255)
+                k = A.qW(A.c([b6, A.bq(A.c([A.qf(A.U(255, 0, 0, 0), b7, new A.ade(k), new A.jN(new A.adg(), B.l, 1, B.m), c5, k.z), A.aw("Plano Inferior", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([], a5), c5, c5), c5, c5)], c), B.p, B.u, B.r)], c), B.p, B.a5, c5, B.cF, B.r, c5, c5, B.aU)
                 b7 = A.b0(c5, 20, c5)
                 b6 = A.qW(A.c([A.aw("CA", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([new A.es(0, B.dZ, A.U(255, 174, 0, 255), B.k, 7)], a5), c5, c5), c5, c5), A.bq(A.c([A.lV(B.bT, c5, A.dL(B.h4, B.e, c5), 16, new A.adh(s, j, c7), new A.aq(0, 0, 0, 0), 1, c5), A.lV(B.bT, c5, A.dL(B.ej, B.e, c5), 16, new A.adi(s, j, c7), new A.aq(0, 0, 0, 0), 1, c5)], c), B.p, B.u, B.r)], c), B.p, B.a5, c5, B.au, B.r, c5, c5, B.aU)
                 b8 = A.b0(c5, 10, c5)
@@ -99320,22 +99321,22 @@
             d = g.b[1]
             s = A.X(k, k, B.e, k, k, k, k, k, k, k, k, k, k, k, k, k, !0, k, k, k, k, k, k, k, k)
             r = A.X(k, k, A.U(255, 255, 255, 255), k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k)
-            s = A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait Queimado", k, k, k, k, !1, k, k, r, "Queimado", k, k, k, k, k, k, k, k, k, k, k, k, k), d, k, B.cf, !1, new A.acG(g), s, k)
+            s = A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait Queimado", k, k, k, k, !1, k, k, r, "Queimando", k, k, k, k, k, k, k, k, k, k, k, k, k), d, k, B.cf, !1, new A.acG(g), s, k)
             d = A.b0(k, 20, k)
             r = g.b[2]
             q = A.X(k, k, B.e, k, k, k, k, k, k, k, k, k, k, k, k, k, !0, k, k, k, k, k, k, k, k)
             p = A.X(k, k, A.U(255, 255, 255, 255), k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k)
-            q = A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait INCONSCIENTE / MORRENDO", k, k, k, k, !1, k, k, p, "Inconsciente / Morrendo", k, k, k, k, k, k, k, k, k, k, k, k, k), r, k, B.cf, !1, new A.acI(g), q, k)
+            q = A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait Inconsciente / Morrendo", k, k, k, k, !1, k, k, p, "Inconsciente / Morrendo", k, k, k, k, k, k, k, k, k, k, k, k, k), r, k, B.cf, !1, new A.acI(g), q, k)
             r = A.b0(k, 20, k)
             p = g.b[3]
             o = A.X(k, k, B.e, k, k, k, k, k, k, k, k, k, k, k, k, k, !0, k, k, k, k, k, k, k, k)
             n = A.X(k, k, A.U(255, 255, 255, 255), k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k)
-            o = A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait PERTUBADO", k, k, k, k, !1, k, k, n, "Pertubado", k, k, k, k, k, k, k, k, k, k, k, k, k), p, k, B.cf, !1, new A.acJ(g), o, k)
+            o = A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait Plano Inferior", k, k, k, k, !1, k, k, n, "Plano Inferior", k, k, k, k, k, k, k, k, k, k, k, k, k), p, k, B.cf, !1, new A.acJ(g), o, k)
             p = A.b0(k, 20, k)
             n = g.b[4]
             m = A.X(k, k, B.e, k, k, k, k, k, k, k, k, k, k, k, k, k, !0, k, k, k, k, k, k, k, k)
             l = A.X(k, k, A.U(255, 255, 255, 255), k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k)
-            m = A.cq(A.c([e, f, s, d, q, r, o, p, A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait Queimado + Pertubado", k, k, k, k, !1, k, k, l, "Queimado + Pertubado", k, k, k, k, k, k, k, k, k, k, k, k, k), n, k, B.cf, !1, new A.acK(g), m, k), A.b0(k, 20, k)], i), B.p, B.u, B.bp)
+            m = A.cq(A.c([e, f, s, d, q, r, o, p, A.f1(k, B.e, A.dM(k, k, k, k, k, k, k, k, !0, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, k, k, B.bk, k, k, new A.ba(4, B.C, new A.a3(B.e, 1, B.m)), k, k, k, k, k, A.X(k, k, B.ah, k, k, k, k, k, j, k, k, 20, k, k, k, k, !0, k, k, k, k, k, k, k, k), "Portrait Queimado + Plano Inferior", k, k, k, k, !1, k, k, l, "Queimado + Plano Inferior", k, k, k, k, k, k, k, k, k, k, k, k, k), n, k, B.cf, !1, new A.acK(g), m, k), A.b0(k, 20, k)], i), B.p, B.u, B.bp)
             return A.n5(A.c([A.h5(A.aw("Adicionar", k, k, k, A.X(k, k, B.e, k, k, k, k, k, j, k, k, 25, k, k, k, k, !0, k, k, k, k, k, k, k, k), k, k), B.l, new A.acL(g, this.b, this.c, a), new A.bh(B.O, new A.a3(B.e, 1, B.m)), B.l)], i), B.l, m, new A.bh(B.O, new A.a3(B.e, 1, B.m)), h)
         },
         $S: 39
