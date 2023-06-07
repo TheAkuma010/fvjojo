@@ -1,11 +1,11 @@
 {
-    "name": "flutter_training",
-    "short_name": "flutter_training",
+    "name": "JOJO RPG",
+    "short_name": "JOJO RPG",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Projeto de Integração RPG JoJo",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
