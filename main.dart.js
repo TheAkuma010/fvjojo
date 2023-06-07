@@ -99244,7 +99244,6 @@
                 b6 = A.U(255, 255, 255, 255)
                 b6 = A.bq(A.c([A.qf(A.U(255, 0, 0, 0), b6, new A.adc(k), new A.jN(new A.add(), B.l, 1, B.m), 0, k.y), A.aw("Pertubado", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([], a5), c5, c5), c5, c5)], c), B.p, B.u, B.r)
                 b7 = A.U(255, 255, 255, 255)
-                k = A.qW(A.c([b6, A.bq(A.c([A.qf(A.U(255, 0, 0, 0), b7, new A.ade(k), new A.jN(new A.adg(), B.l, 1, B.m), c5, k.z), A.aw("Enlouquecido", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([], a5), c5, c5), c5, c5)], c), B.p, B.u, B.r)], c), B.p, B.a5, c5, B.cF, B.r, c5, c5, B.aU)
                 b7 = A.b0(c5, 20, c5)
                 b6 = A.qW(A.c([A.aw("CA", c5, c5, c5, A.X(c5, c5, B.e, c5, c5, c5, c5, c5, c6, c5, c5, 16.666666666666668, c5, c5, c5, c5, !0, c5, c5, c5, c5, c5, A.c([new A.es(0, B.dZ, A.U(255, 174, 0, 255), B.k, 7)], a5), c5, c5), c5, c5), A.bq(A.c([A.lV(B.bT, c5, A.dL(B.h4, B.e, c5), 16, new A.adh(s, j, c7), new A.aq(0, 0, 0, 0), 1, c5), A.lV(B.bT, c5, A.dL(B.ej, B.e, c5), 16, new A.adi(s, j, c7), new A.aq(0, 0, 0, 0), 1, c5)], c), B.p, B.u, B.r)], c), B.p, B.a5, c5, B.au, B.r, c5, c5, B.aU)
                 b8 = A.b0(c5, 10, c5)
